@@ -1,0 +1,306 @@
+{
+  "description": "",
+  "tags": [
+    "paint brush",
+    "free"
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 65960,
+        "resolution": "360x360",
+        "uri": "qdiqdcoc_4K_Brush_Grid_360.png",
+        "tags": [
+          "thumb"
+        ]
+      },
+      {
+        "contentLength": 83548,
+        "resolution": "420x420",
+        "uri": "qdiqdcoc_4K_Brush_Grid_420.png",
+        "tags": [
+          "thumb"
+        ]
+      },
+      {
+        "contentLength": 198505,
+        "resolution": "720x720",
+        "uri": "qdiqdcoc_4K_Brush_Grid_720.png",
+        "tags": [
+          "thumb",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 256948,
+        "resolution": "840x840",
+        "uri": "qdiqdcoc_4K_Brush_Grid_840.png",
+        "tags": [
+          "thumb",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1865169,
+        "resolution": "1440x768",
+        "uri": "qdiqdcoc_Popup_1440.png",
+        "tags": [
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 3417165,
+        "resolution": "1920x1080",
+        "uri": "qdiqdcoc_Popup_1920.png",
+        "tags": [
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 7122235,
+        "resolution": "2880x1536",
+        "uri": "qdiqdcoc_Popup_2880.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 12510585,
+        "resolution": "3840x2160",
+        "uri": "qdiqdcoc_Popup_3840.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 482,
+        "resolution": "24x24",
+        "uri": "//////////////////////////////////////////20p1csAAAAMdFJOUwAGGhMN8i+RT3O60iOqUboAAAC6SURBVCjPXZIJEsQgCAS5gsb9/393xAtDJRqna0CiRCNUVBCqRjkMSi2It7okJMpWnhHNTbbORN4meF5iOTp5LT9EQzaexBQDu9e3NdSo3rfS6wRlVngKZI81BtUA2JhDhR5rqKMQw4JW+sOj8AFmpnhnFwmwsWFeLZBegBbQAThAVw+YXS5An1ThyWA7Ttnt0PWdHV3dFkpA1k/8xDhH4a/jOpCUhyUd7UnDKtdl2Onlvicad6cPU/gDTCwDSb5SyysAAAAASUVORK5CYII=",
+        "tags": [
+          "thumb",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 28846,
+        "resolution": "360x360",
+        "uri": "qdiqdcoc_4K_Brush_Grid_360_thumb.jpg",
+        "tags": [
+          "thumb",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 37771,
+        "resolution": "420x420",
+        "uri": "qdiqdcoc_4K_Brush_Grid_420_thumb.jpg",
+        "tags": [
+          "thumb",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 95661,
+        "resolution": "720x720",
+        "uri": "qdiqdcoc_4K_Brush_Grid_720_thumb.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 126698,
+        "resolution": "840x840",
+        "uri": "qdiqdcoc_4K_Brush_Grid_840_thumb.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 163430,
+        "resolution": "1440x768",
+        "uri": "qdiqdcoc_Popup_1440_preview.jpg",
+        "tags": [
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 311536,
+        "resolution": "1920x1080",
+        "uri": "qdiqdcoc_Popup_1920_preview.jpg",
+        "tags": [
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 640900,
+        "resolution": "2880x1536",
+        "uri": "qdiqdcoc_Popup_2880_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 1362258,
+        "resolution": "3840x2160",
+        "uri": "qdiqdcoc_Popup_3840_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      }
+    ],
+    "scaleReferences": [],
+    "relativeSize": "1x1"
+  },
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "maps": [
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "1024x1024",
+      "contentLength": 2179258,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_1K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "1024x1024",
+      "contentLength": 281226,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_1K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    },
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "2048x2048",
+      "contentLength": 6385141,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_2K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "2048x2048",
+      "contentLength": 904579,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_2K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    },
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "4096x4096",
+      "contentLength": 7760663,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_4K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "4096x4096",
+      "contentLength": 2812126,
+      "colorSpace": "sRGB",
+      "uri": "qdiqdcoc_4K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#101010"
+    }
+  ],
+  "json": {
+    "contentLength": 4643,
+    "uri": "qdiqdcoc.json"
+  },
+  "points": 0,
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.03x0.03 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "20 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": false
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "131072 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "categories": [
+    "brush",
+    "paint brushes",
+    "leakage"
+  ],
+  "version": 2,
+  "references": [],
+  "properties": [],
+  "averageColor": "#808080",
+  "name": "Leakage",
+  "id": "qdiqdcoc",
+  "physicalSize": null,
+  "pack": null
+}
