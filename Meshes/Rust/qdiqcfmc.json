@@ -1,0 +1,306 @@
+{
+  "description": "",
+  "tags": [
+    "paint brush",
+    "free"
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 125922,
+        "resolution": "360x360",
+        "uri": "qdiqcfmc_4K_Brush_Grid_360.png",
+        "tags": [
+          "thumb"
+        ]
+      },
+      {
+        "contentLength": 168379,
+        "resolution": "420x420",
+        "uri": "qdiqcfmc_4K_Brush_Grid_420.png",
+        "tags": [
+          "thumb"
+        ]
+      },
+      {
+        "contentLength": 472417,
+        "resolution": "720x720",
+        "uri": "qdiqcfmc_4K_Brush_Grid_720.png",
+        "tags": [
+          "thumb",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 639608,
+        "resolution": "840x840",
+        "uri": "qdiqcfmc_4K_Brush_Grid_840.png",
+        "tags": [
+          "thumb",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 2136051,
+        "resolution": "1440x768",
+        "uri": "qdiqcfmc_Popup_1440.png",
+        "tags": [
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 3957827,
+        "resolution": "1920x1080",
+        "uri": "qdiqcfmc_Popup_1920.png",
+        "tags": [
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 8296640,
+        "resolution": "2880x1536",
+        "uri": "qdiqcfmc_Popup_2880.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 14921293,
+        "resolution": "3840x2160",
+        "uri": "qdiqcfmc_Popup_3840.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 630,
+        "resolution": "24x24",
+        "uri": "//////////////////////////0xpcf///////////////////////////////////ykgLd8AAAARdFJOUx5aZTYFQikAFQ5Pc4+jfrfahCS5vQAAARZJREFUKM99UtmSwzAI4zDEgI/8/9eunHZn+9J1JsmAQIAwXa/TCc/zeTvo+Ubv7WW33uMPoHi7HyjoF6AP9wPRC6Do1M6JwHvsgE1XxKVFvcWp3r0pU3gHgAAro0ZOpK4u0w4FeIK8GK3iqKbVLHOH2d1ySesnIVm45kQcotx43It6mqWx2bj3ykOgAkBM2SS5Fu97LkZ615IafOLL1cbY95YE4Dwr15AUXoRqNTcMRQ1bhYIsQxay5kQGsymGskzZJTKGmKyHyvQpYjmmoIVdzilzpB0m9K8KHkNLjvmsCs1i6jhDyoIY6uGYOcug4nU0Ah8Ec/dGZ4vZj7BHYHj7ozqWhL/HWch/i/q+2u+X4fP6xNvxA92ZDn2b9NbdAAAAAElFTkSuQmCC",
+        "tags": [
+          "thumb",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 51060,
+        "resolution": "360x360",
+        "uri": "qdiqcfmc_4K_Brush_Grid_360_thumb.jpg",
+        "tags": [
+          "thumb",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 68716,
+        "resolution": "420x420",
+        "uri": "qdiqcfmc_4K_Brush_Grid_420_thumb.jpg",
+        "tags": [
+          "thumb",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 196342,
+        "resolution": "720x720",
+        "uri": "qdiqcfmc_4K_Brush_Grid_720_thumb.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 268113,
+        "resolution": "840x840",
+        "uri": "qdiqcfmc_4K_Brush_Grid_840_thumb.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 263587,
+        "resolution": "1440x768",
+        "uri": "qdiqcfmc_Popup_1440_preview.jpg",
+        "tags": [
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 512097,
+        "resolution": "1920x1080",
+        "uri": "qdiqcfmc_Popup_1920_preview.jpg",
+        "tags": [
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 1073497,
+        "resolution": "2880x1536",
+        "uri": "qdiqcfmc_Popup_2880_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 2225336,
+        "resolution": "3840x2160",
+        "uri": "qdiqcfmc_Popup_3840_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      }
+    ],
+    "scaleReferences": [],
+    "relativeSize": "1x1"
+  },
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "maps": [
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "1024x1024",
+      "contentLength": 3671780,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_1K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "1024x1024",
+      "contentLength": 626171,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_1K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    },
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "2048x2048",
+      "contentLength": 14358477,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_2K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "2048x2048",
+      "contentLength": 2365459,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_2K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    },
+    {
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "bitDepth": 16,
+      "name": "Brush",
+      "resolution": "4096x4096",
+      "contentLength": 25213791,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_4K_Brush.exr",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "bitDepth": 8,
+      "name": "Brush",
+      "resolution": "4096x4096",
+      "contentLength": 8626652,
+      "colorSpace": "sRGB",
+      "uri": "qdiqcfmc_4K_Brush.jpg",
+      "physicalSize": "0.03x0.03",
+      "maxIntensity": 255,
+      "type": "brush",
+      "averageColor": "#272727"
+    }
+  ],
+  "json": {
+    "contentLength": 4638,
+    "uri": "qdiqcfmc.json"
+  },
+  "points": 0,
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.03x0.03 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "20 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": false
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "131072 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "categories": [
+    "brush",
+    "paint brushes",
+    "decay"
+  ],
+  "version": 2,
+  "references": [],
+  "properties": [],
+  "averageColor": "#808080",
+  "name": "Rust",
+  "id": "qdiqcfmc",
+  "physicalSize": null,
+  "pack": null
+}
